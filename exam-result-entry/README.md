@@ -38,9 +38,13 @@ This Python program allows a teacher to enter student exam marks and calculates 
 5.Example
 
   Please enter exam marks: 78
+  
   Please enter exam marks: 92
+  
   Please enter exam marks: 88
+  
   Please enter exam marks: 999
+  
   Average mark for 3 students is: 86.0
 
 Author
