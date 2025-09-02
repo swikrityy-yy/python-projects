@@ -33,6 +33,8 @@ This Python program allows a teacher to enter student exam marks and calculates 
 
 4. Enter student marks as prompted.
     Type 999 to stop entering marks and display the average.
+
+   
 5.Example
 
   Please enter exam marks: 78
